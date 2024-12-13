@@ -1,7 +1,7 @@
 # car price prediction
 
 # Introduction
-This project aims to predict the prices of cars based on various features such as make, model, year, mileage, and more. By leveraging machine learning models, we can provide accurate price predictions to assist buyers and sellers in making informed decisions.
+This project aims to predict the prices of cars based on various features such as selling price, model, year, mileage, and more. By leveraging machine learning models, we can provide accurate price predictions to assist buyers and sellers in making informed decisions.
 
 # Dataset
 The dataset used in this project includes various features relevant to car pricing:
