@@ -2,7 +2,7 @@
 
  Predicting used car prices using machine learning to empower smarter buying and selling decisions.
 
- ![A View of car price](https://www.motortrend.com/uploads/2022/02/15-Most-Expensive-Cars-List-Bugatti-Chiron-Sport.jpg)
+ ![A View of car price](https://cf-img-a-in.tosshub.com/sites/visualstory/stories/2023_05/story_33857/assets/4.jpeg?time=1683368017)
 
 
 ---
